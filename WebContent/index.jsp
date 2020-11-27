@@ -1,4 +1,5 @@
 <html>
+<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8"%>
 <body>
 <h1>Bem vindo ao nosso GERENCIADOR de empresas!<br/></h1>
 ${usuarioLogado.email}
