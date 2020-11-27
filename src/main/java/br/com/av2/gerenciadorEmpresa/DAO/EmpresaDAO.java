@@ -1,5 +1,12 @@
 package br.com.av2.gerenciadorEmpresa.DAO;
 
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import br.com.av2.gerenciadorEmpresa.Empresa;
 
 public class EmpresaDAO {
 

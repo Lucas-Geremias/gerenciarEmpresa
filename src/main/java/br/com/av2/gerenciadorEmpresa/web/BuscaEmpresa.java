@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import br.com.av2.gerenciadorEmpresa.Empresa;
-import br.com.av2.gerenciadorEmpresa.dao.EmpresaDAO;
+import br.com.av2.gerenciadorEmpresa.DAO.EmpresaDAO;
 
 @WebServlet(urlPatterns="/busca")
 public class BuscaEmpresa implements Tarefa{
